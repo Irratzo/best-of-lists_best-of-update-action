@@ -1,6 +1,6 @@
-name: "best-of-update-action"
-description: "🔄 GitHub Action to update a best-of list."
-author: "Best-of Team <best-of@mltooling.org>"
+name: "best-of-update-action-irratzo"
+description: "🔄 GitHub Action to update a best-of list. Inofficial Irratzo version."
+author: "Best-of Team <best-of@mltooling.org>, and https://github.com/Irratzo."
 inputs:
   libraries_key:
     description: "Libraries.io API Key (from https://libraries.io/api)"
